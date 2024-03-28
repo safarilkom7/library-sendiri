@@ -3,7 +3,8 @@
     "description": "halo safar",
     "type": "library",
     "require": {
-        "php": ">= 8"
+        "php": ">= 8",
+        "nesbot/carbon": "^3.2"
     },
     "autoload": {
         "psr-4": {
