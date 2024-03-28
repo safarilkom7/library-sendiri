@@ -1,0 +1,13 @@
+{
+    "name": "halosafar/halo",
+    "description": "halo safar",
+    "type": "library",
+    "require": {
+        "php": ">= 8"
+    },
+    "autoload": {
+        "psr-4": {
+            "Halosafar\\Halo\\": "src/"
+        }
+    }
+}
